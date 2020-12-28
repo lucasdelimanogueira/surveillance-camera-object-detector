@@ -16,8 +16,6 @@ or in terminal:
 
 # Example
 `$ python surveillance-camera-object-detector.py --url 'http://192.82.150.11:8083/mjpg/video.mjpg' --weights ./YOLO/yolov3.weights --config ./YOLO/yolov3.cfg`
- <br/>
- ![](/examples/example1.png)
  
 # Arguments
 
