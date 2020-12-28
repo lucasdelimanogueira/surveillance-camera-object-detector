@@ -14,8 +14,8 @@ or in terminal:
 
 (if you use the tiny version you have to use the yolov3-tiny.cfg file as the --config argument of the script) 
 
-Then install dependencies:
-`$ pip install opencv-python`
+Then install dependencies:<br/>
+`$ pip install opencv-python`<br/>
 `$ pip install numpy`
 
 # Example
