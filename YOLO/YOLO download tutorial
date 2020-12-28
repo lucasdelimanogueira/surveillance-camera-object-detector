@@ -1,0 +1,13 @@
+1 - Download the YOLO v3 weights file from:
+https://pjreddie.com/media/files/yolov3.weights
+
+or in terminal:
+$ wget https://pjreddie.com/media/files/yolov3.weights
+
+if you have an slower machine you can download the YOLO tiny version using from:
+https://pjreddie.com/media/files/yolov2-tiny.weights
+
+or in terminal:
+$ wget https://pjreddie.com/media/files/yolov3-tiny.weights
+
+2 - Place the file in the YOLO folder
