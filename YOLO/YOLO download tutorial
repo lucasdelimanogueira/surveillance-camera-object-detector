@@ -4,7 +4,7 @@ https://pjreddie.com/media/files/yolov3.weights
 or in terminal:
 $ wget https://pjreddie.com/media/files/yolov3.weights
 
-if you have an slower machine you can download the YOLO tiny version using from:
+if you have a slower machine you can download the YOLO tiny version using from:
 https://pjreddie.com/media/files/yolov2-tiny.weights
 
 or in terminal:
