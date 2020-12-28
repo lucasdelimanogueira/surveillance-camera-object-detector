@@ -28,7 +28,7 @@ or in terminal:
  | `threshold` | Float  | Confidence threshhold to detect an object |
  
 # Tips
-You can get public cameras URLs to test from [here](http://www.opentopia.com/)<br/>
-Example: `http://192.82.150.11:8083/mjpg/video.mjpg` is a public camera from canada<br/>
-You also can connect to your personal surveillance camera via RTSP protocol. In order to do that, you can check the RTSP url with the camera manufacturer or search on the internet.<br/>
+You can get public cameras URLs to test from [here](http://www.opentopia.com/)<br/><br/>
+Example: `http://192.82.150.11:8083/mjpg/video.mjpg` is a public camera from canada<br/><br/>
+You also can connect to your personal surveillance camera via RTSP protocol. In order to do that, you can check the RTSP url with the camera manufacturer or search on the internet.<br/><br/>
 Some cameras models use the template `rtsp://username:password@ip`
