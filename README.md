@@ -14,6 +14,10 @@ or in terminal:
 
 (if you use the tiny version you have to use the yolov3-tiny.cfg file as the --config argument of the script) 
 
+Then install dependencies:
+`$ pip install opencv-python`
+`$ pip install numpy`
+
 # Example
 `$ python surveillance-camera-object-detector.py --url 'http://192.82.150.11:8083/mjpg/video.mjpg' --weights ./YOLO/yolov3.weights --config ./YOLO/yolov3.cfg`
  <br/>
